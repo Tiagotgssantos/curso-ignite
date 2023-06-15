@@ -12,7 +12,7 @@ export function Post(){
     export function Post(){
     return <p>Post</p>
 
-    e no aquivo que vai receber a importação:
+    e no arquivo que vai receber a importação (App.jsx):
 
     import {Post} from './Post';
 }
